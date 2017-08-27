@@ -9,7 +9,7 @@ name: nanfu
 description: 认真学习，快乐工作，幸福生活
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/nanfu/nanfu.github.io/blob/master/images/nan.jpg
+avatar: ./images/nan.jpg
 
 #
 # Flags below are optional
