@@ -109,14 +109,14 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
+  config: falseminixalpha
   id: minixalpha
 
 
 #################################### global configure #######################################
 
 username: nanfu
-baseurl: /StrayBirds
+baseurl: /
 markdown: redcarpet
 safe: false
 highlighter: pygments
