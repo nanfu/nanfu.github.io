@@ -110,20 +110,20 @@ customLinks:
 #comment config
 disqus:
   config: falseminixalpha
-  id: nanfu
+  id: minixalpha
 
 
 #################################### global configure #######################################
 
 username: nanfu
-baseurl: /
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 康乐之旅
 description: 路需要一步一步走
 theme: kunka
-disqusname: nanfu
+disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
