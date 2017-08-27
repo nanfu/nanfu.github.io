@@ -110,7 +110,7 @@ customLinks:
 #comment config
 disqus:
   config: falseminixalpha
-  id: minixalpha
+  id: nanfu
 
 
 #################################### global configure #######################################
@@ -123,7 +123,7 @@ highlighter: pygments
 title: 康乐之旅
 description: 路需要一步一步走
 theme: kunka
-disqusname: minixalpha
+disqusname: nanfu
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
