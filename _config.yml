@@ -5,6 +5,7 @@
 # Name of your site (displayed in the header)
 name: nanfu
 paginate: 5
+comments: true
 # Short bio or description (displayed in the header)
 description: 认真学习，快乐工作，幸福生活
 
