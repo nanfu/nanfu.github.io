@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db202eb-ddfd-41ca-a4fd-7caf669a508b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" afterPath="$PROJECT_DIR$/_posts/2017-08-28-hello-2017.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,9 +70,22 @@
       <file leaf-file-name="2017-08-28-hello-2017.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-08-28-hello-2017.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
+            <state relative-caret-position="1659">
               <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1532">
+                <caret line="146" column="13" lean-forward="false" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -101,14 +114,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>一生想做浪漫极客</find>
-      <find>写写代码，做做设计</find>
-      <find>Theme by</find>
-      <find>zu</find>
-      <find>zuoz</find>
-      <find>zuozuo</find>
-      <find>做做涉及</find>
-      <find>做做涉</find>
       <find>做做s</find>
       <find>做做she</find>
       <find>做做shej</find>
@@ -126,6 +131,19 @@
       <find>http://www.52health.me/2017/07/12/upgrading-eleme-to-pwa/</find>
       <find>http://www.52health.me/2017/07/12/upgrading-eleme-to-pwa</find>
       <find>upgrading-eleme-to-pwa</find>
+      <find>h</find>
+      <find>helloe</find>
+      <find>hello02015</find>
+      <find>hello0201</find>
+      <find>hello020</find>
+      <find>hello02</find>
+      <find>hello0</find>
+      <find>hello-2015</find>
+      <find>hello-201</find>
+      <find>hello-20</find>
+      <find>hello-2</find>
+      <find>hello-</find>
+      <find>hello</find>
     </findStrings>
     <dirStrings>
       <dir>D:\code\study\nanfu.github.io</dir>
@@ -645,12 +663,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503888139044</updated>
-      <workItem from="1503888141705" duration="4154000" />
+      <workItem from="1503888141705" duration="4365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4154000" />
+    <option name="totallyTimeSpent" value="4365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="870" extended-state="0" />
@@ -765,9 +783,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1532">
+            <caret line="146" column="13" lean-forward="false" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-28-hello-2017.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
+        <state relative-caret-position="1659">
           <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
           <folding />
         </state>
