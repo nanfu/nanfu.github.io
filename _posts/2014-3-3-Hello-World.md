@@ -1,17 +1,8 @@
 ---
 layout: post
 title: HELLO WORLD
-category: START
+category: test
 ---
-<h4>Category</h4>
-<ul>
-    //这里使用了 Jekyll 语法，会被编译，所以加多个"\"
-    {\% for category in site.categories %\}
-    <li><a href="/categories/{\{ category | first }\}/" title="view all
-posts">{\{ category | first }\} {\{ category | last | size }\}</a>
-    </li>
-    {\% endfor %\}
-</ul>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
